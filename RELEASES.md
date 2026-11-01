@@ -35,6 +35,7 @@
 - 태그: `reka-ko_261101_build26298851-r3`
 - 첨부: `reka-ko_261101_build26298851-r3.zip` (8.0 MB)
   - SHA256 `4c42b166bd40320a3d5a08857f9c695dc41faadc7c21bbe4a9f86ee4f77eb9b0`
+- 대체: 어색한 이름과 용어를 다듬은 `reka-ko_261101_build26298851-r4`로 대체되었습니다.
 - 내용: 잠긴 Korean 언어 슬롯 활성화, 번역 4,758개 항목, 한글 동적 폰트(Noto Sans KR)
 
 | 파일 (게임 폴더 기준) | SHA256 |
