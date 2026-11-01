@@ -1,0 +1,8 @@
+# Original game data, extracted source text, batches and build output: local only
+work/
+# Noto font source (copied or downloaded for the build)
+fonts/
+__pycache__/
+*.pyc
+# Built release artifacts (contain modified original game data): attached to Gitea Releases, not committed
+release/
