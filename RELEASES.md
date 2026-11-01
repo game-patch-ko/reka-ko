@@ -41,3 +41,15 @@
 | 파일 (게임 폴더 기준) | SHA256 |
 |---|---|
 | `Reka_Data/resources.assets` | `383644c59689865b24e0f89f44b8c50c12557c7f43b68c31106e31d2626297b8` |
+
+## reka-ko_261101_build26298851-r4
+- 날짜: 2026-11-01
+- 게임: REKA (Steam app 1737870), Steam build `26298851`, 게임 버전 `1.0.25`
+- 태그: `reka-ko_261101_build26298851-r4`
+- 첨부: `reka-ko_261101_build26298851-r4.zip` (8.0 MB)
+  - SHA256 `b41ad71ea6d2220abedb2070464374b8db19fc3180f2d1148d180bd8eba5fa48`
+- 내용: 잠긴 Korean 언어 슬롯 활성화, 번역 4,758개 항목, 한글 동적 폰트(Noto Sans KR)
+
+| 파일 (게임 폴더 기준) | SHA256 |
+|---|---|
+| `Reka_Data/resources.assets` | `6f835b71ee41ebfa1ccfe82bccc2180a57129c59a600de875d8888b8a04f0824` |
